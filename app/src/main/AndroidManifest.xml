@@ -6,6 +6,8 @@
     <application
         android:allowBackup="false"
         android:label="FlipperGame"
+        android:icon="@drawable/icon"
+        android:roundIcon="@drawable/icon"
         android:theme="@android:style/Theme.Material.Light.NoActionBar"
         android:usesCleartextTraffic="false">
 
